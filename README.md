@@ -14,6 +14,9 @@ This is a website that provides informations concernig Delani studio. I t entail
 * jquery
 # BDD
 - When you get into the webpage, it contains the navigation bars,click each and every bar to get more information for each.
+## Known Bugs
+* The site is not responsive enough for some devices.
+* mail chimp API does not function properly.
 ## Contribution
 Incase of any contributions, feel free to do so by visiting[this link]https://github.com/Martha-Valary/studio.git
 ### License
